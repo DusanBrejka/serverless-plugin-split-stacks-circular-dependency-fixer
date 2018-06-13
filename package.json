@@ -1,0 +1,13 @@
+{
+  "name": "serverless-plugin-split-stacks-circular-dependency-fixer",
+  "version": "0.0.1",
+  "description": "Serverless plugin split stacks - circular dependency fixer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DusanBrejka/serverless-plugin-split-stacks-circular-dependency-fixer.git"
+  },
+  "author": "Dusan Brejka <dusan@brejka.sk>",
+  "license": "MIT",
+  "homepage": "https://github.com/DusanBrejka/serverless-plugin-split-stacks-circular-dependency-fixer#readme"
+}
