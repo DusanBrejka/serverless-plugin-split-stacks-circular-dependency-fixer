@@ -1,4 +1,7 @@
 # serverless-plugin-split-stacks-circular-dependency-fixer
+Edit 18/03/2022: Please consider using stacks-map.js instead of this plugin
+
+
 This plugin fixes circular dependencies created in complex projects by serverless-plugin-split-stacks.
 
 ## Fixes issue:
